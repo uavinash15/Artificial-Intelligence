@@ -1,2 +1,2 @@
 # Artificial-Intelligence
-using this repository to store AI Models
+My AI/ML learning journey - from fundamentals to GenAI applications
